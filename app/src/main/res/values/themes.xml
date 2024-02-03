@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TicTacToe" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.TicTacToe" parent="Base.Theme.TicTacToe" />
+    <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">
+    <item name="windowSplashScreenBackground">#78E3AB</item>
+    <item name="windowSplashScreenAnimatedIcon">@drawable/tictactoe_svgrepo_com </item>
+    <item name="postSplashScreenTheme">@style/Base.Theme.TicTacToe</item>
+    </style>
+
+
+</resources>
