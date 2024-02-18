@@ -14,4 +14,15 @@
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
     <string name="email">Email</string>
+    <string name="ties">TIES</string>
+    <string name="_0">0</string>
+    <string name="_00">0</string>
+    <string name="_000">0</string>
+    <string name="d">TODO</string>
+    <string name="pick_player_1_s_mark">PICK PLAYER 1\'S MARK</string>
+    <string name="textview">TextView</string>
+    <string name="imgbtn">TODO</string>
+    <string name="new_game_vs_cpu">NEW GAME (VS CPU)</string>
+    <string name="new_game_vs_player">NEW GAME (VS PLAYER)</string>
+    <string name="remember_x_goes_first">REMEMBER : X GOES FIRST</string>
 </resources>
